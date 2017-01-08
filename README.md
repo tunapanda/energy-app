@@ -1,9 +1,9 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-- [Introduction](#Introduction)
-- [Dictionary](#Dictionary)
-- [Domain Model](#Domain-Model)
-- [Functional requirements](#Functional-requirements)
+- [Introduction](#introduction)
+- [Dictionary](#dictionary)
+- [Domain Model](#domain-model)
+- [Functional requirements](#functional-requirements)
 	- [Actors](#)
 	- [Business processes](#)
 		- [B1. Working with organizational structure for given month](#)
