@@ -176,7 +176,7 @@ This will be the user who holds one defined Role (Lead Link) in "Structure & Str
 
 This process is run every month. It populates Energy Points application with current Organization Structure for previous month. Then users of the application populates it with relevant data (Energy Points).
 
-![image alt text](image_1.png)
+![image alt text](/documentation/diagrams/binary/image_1.png)
 
 #### UC.B1.1 Import  Organization Structure from Podio
 
@@ -210,7 +210,7 @@ This process is run every month. It populates Energy Points application with cur
 
 Example of loaded OS:
 
-![image alt text](image_2.png)
+![image alt text](/documentation/diagrams/binary/image_2.png)
 
 #### UC.B1.2 Preconfigure import process
 
@@ -244,7 +244,7 @@ Example of loaded OS:
 
 Example of OS:
 
-![image alt text](image_3.png)
+![image alt text](/documentation/diagrams/binary/image_3.png)
 
 #### UC.B1.3 Configure Organization Structure
 
@@ -286,7 +286,7 @@ Example of OS:
 
 ### B1.1 Assigning Energy Points
 
-![image alt text](image_4.png)
+![image alt text](/documentation/diagrams/binary/image_4.png)
 
 #### UC.B1.1.1 Assign EP for Roles
 
@@ -324,7 +324,7 @@ Remark 2: Assigning EP is started from the bottom of the hierarchy (leaf) and go
 
 ### Standard User
 
-![image alt text](image_5.png)
+![image alt text](/documentation/diagrams/binary/image_5.png)
 
 #### UC.1. View Dashboard
 
@@ -400,7 +400,7 @@ Administrator can perform at least the same actions as Lead Link + Member of X R
 
 ### Technical Administrator
 
-#### ![image alt text](image_6.png)
+#### ![image alt text](/documentation/diagrams/binary/image_6.png)
 
 #### UC.5. Manage Individuals
 
@@ -440,7 +440,7 @@ Administrator can perform at least the same actions as Lead Link + Member of X R
 
 ### Member of "Secretary" Role
 
-#### ![image alt text](image_7.png)
+#### ![image alt text](/documentation/diagrams/binary/image_7.png)
 
 #### UC.6. Define "Thought Leaders"
 
@@ -496,11 +496,11 @@ Web application will be created using Single Page Application architecture patte
 
 ## Logical
 
-![image alt text](image_8.png)
+![image alt text](/documentation/diagrams/binary/image_8.png)
 
 ## Physical
 
-![image alt text](image_9.png)
+![image alt text](/documentation/diagrams/binary/image_9.png)
 
 # Interface specification (Podio)
 
