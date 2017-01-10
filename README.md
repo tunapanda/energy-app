@@ -116,7 +116,7 @@ The more points the more role is energized by its contributor (the more effort h
 
 # Domain Model
 
-![image alt text](image_0.png)
+![image alt text](/documention/diagrams/binary/image_0.png)
 
 1. Circle can have other Circles inside which are called sub-Circles.
 
